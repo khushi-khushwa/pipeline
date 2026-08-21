@@ -1,6 +1,6 @@
 module "azurerm_resource_group" {
-  source      = "../../modules/azure_resourcegroup"
-  res= var.res
+  source = "../../modules/azure_resourcegroup"
+  res    = var.res
 
 }
 
