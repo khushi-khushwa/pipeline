@@ -6,6 +6,7 @@ terraform {
     }
   }
 
+
 }
 
 provider "azurerm" {
@@ -14,4 +15,7 @@ provider "azurerm" {
 
   }
 }
+
+
+  
 
